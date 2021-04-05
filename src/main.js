@@ -1,8 +1,14 @@
 import Vue from 'vue'
-import App from './App.vue'
+import { BootstrapVue } from 'bootstrap-vue';
+import VueMeta from 'vue-meta';
+import App from './App';
+import router from './router';
 
-Vue.config.productionTip = false
+Vue.use(BootstrapVue);
+Vue.use(VueMeta);
 
 new Vue({
-  render: h => h(App),
-}).$mount('#app')
+  router,
+  render: (h) => h(App),
+  mounted: () => document.dispatchEvent(new Event('x-app-rendered')),
+}).$mount('#app');

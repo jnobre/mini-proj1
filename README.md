@@ -1,5 +1,14 @@
 # mini-proj1
 
+Academic website project built on the Vue.js framework in a SPA architecture answering three questions: Who am I ?, What do I do? and Hobbies.
+
+![screenshot]()
+
+
+Features
+- Responsive Reusable BootstrapVue Components
+- Vue-router for routing
+
 ## Project setup
 ```
 npm install
@@ -13,11 +22,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
