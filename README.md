@@ -4,10 +4,11 @@ Academic website project built on the Vue.js framework in a SPA architecture ans
 
 ![screenshot](https://github.com/jnobre/mini-proj1/blob/main/src/assets/images/print-screen.png)
 
-
 Features
 - Responsive Reusable BootstrapVue Components
 - Vue-router for routing
+
+At the root of the project is the *Wireframes.pdf* file that represents the website's wireframes.
 
 ## Project setup
 ```
