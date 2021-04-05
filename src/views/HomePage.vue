@@ -16,7 +16,7 @@
             <a href="mailto:joaoanobre@gmail.com">joaoanobre@gmail.com</a>
           </div>
           <p class="lead mb-5">
-             Engenheiro de software desde 2014. Sou metódico, organizado e receptivo a críticas construtivas no sentido de melhorar constante- mente as minhas competências e evoluir pessoal e profissionalmente. Tenho um espírito crítico e curioso, procuro constantemente novas soluções para implementar no meu trabalho diário, privilegiando a saída da minha da zona de conforto como motor de evolução da minha vida profissional.
+             Engenheiro de software desde 2014. Sou metódico, organizado e receptivo a críticas construtivas no sentido de melhorar constantemente as minhas competências e evoluir pessoal e profissionalmente. Tenho um espírito crítico e curioso, procuro constantemente novas soluções para implementar no meu trabalho diário, privilegiando a saída da minha da zona de conforto como motor de evolução da minha vida profissional.
 Tenho interesse nas áreas de otimização numérica e algoritmos de computação de alto desempenho, full-text search, computação paralela e distribuída e inteligência artificial. Tenho experiência nomeadamente em Java, Python, C/C++ e PHP, e interesse em Scala, Golang, Javascript, Rust, R.
           </p>
         </b-col>
