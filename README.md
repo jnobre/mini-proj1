@@ -2,7 +2,7 @@
 
 Academic website project built on the Vue.js framework in a SPA architecture answering three questions: Who am I ?, What do I do? and Hobbies.
 
-![screenshot]()
+![screenshot](https://github.com/jnobre/mini-proj1/blob/main/src/assets/images/print-screen.png)
 
 
 Features
